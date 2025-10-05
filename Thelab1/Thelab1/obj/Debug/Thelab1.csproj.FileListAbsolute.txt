@@ -1,8 +1,0 @@
-D:\VScsharpiksprojects\Thelab1\Thelab1\bin\Debug\Thelab1.exe.config
-D:\VScsharpiksprojects\Thelab1\Thelab1\bin\Debug\Thelab1.exe
-D:\VScsharpiksprojects\Thelab1\Thelab1\bin\Debug\Thelab1.pdb
-D:\VScsharpiksprojects\Thelab1\Thelab1\obj\Debug\Thelab1.csproj.AssemblyReference.cache
-D:\VScsharpiksprojects\Thelab1\Thelab1\obj\Debug\Thelab1.csproj.CoreCompileInputs.cache
-D:\VScsharpiksprojects\Thelab1\Thelab1\obj\Debug\Thelab1.exe
-D:\VScsharpiksprojects\Thelab1\Thelab1\obj\Debug\Thelab1.pdb
-D:\VScsharpiksprojects\Thelab1\Thelab1\obj\Debug\Thelab1.exe.config
